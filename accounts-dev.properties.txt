@@ -1,0 +1,12 @@
+msg=Hi There! This is Accounts microservices from DEV!
+
+build-version=1
+
+mailDetails.hostName=account@bank.in
+mailDetails.port=9000
+mailDetails.from=account@bank.in
+mailDetails.subject=Account service of Bank's DEV Environment
+
+activeBranches[0]=New Delhi
+activeBranches[1]=Old Chennai
+activeBranches[2]=Navi Mumbai

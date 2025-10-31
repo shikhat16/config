@@ -1,0 +1,11 @@
+cards.msg =Hi There! This is Cards microservices from PROD!
+build.version=1
+
+cardDetails.hostName=cards@bank.in
+cardDetails.port=9020
+cardDetails.from=cards@bank.in
+cardDetails.subject=Card service of Bank's PROD Environment
+
+activeBranches[0]=New Delhi
+activeBranches[1]=Old Chennai
+activeBranches[2]=Navi Mumbai
